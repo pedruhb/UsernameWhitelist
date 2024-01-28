@@ -34,7 +34,7 @@ credits="" #optional
 authors="PedruHB" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-is is a small server-side only utility mod to allow server owners/admins to use whitelisting on servers running in Offline mode.
+This is a small server-side only utility mod to allow server owners/admins to use whitelisting on servers running in Offline mode.
 
 Check more on https://github.com/pedruhb/UsernameWhitelist
 '''
